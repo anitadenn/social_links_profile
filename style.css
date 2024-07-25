@@ -78,6 +78,7 @@ body{
     margin: 15px 0 0 0;
     cursor: pointer;
     flex-grow: 1;
+    font-weight: 500;
 
 }
 
@@ -88,6 +89,7 @@ body{
     color: #fff;
     padding: 11px;
     border-radius: 8px;
+    
 }
 
 .link a:hover {
