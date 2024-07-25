@@ -16,12 +16,12 @@
     color: hsl(228, 45%, 44%);
 }
 body{
-    background-color: #000;
+    background-color: hsl(0, 0%, 5%);
 
    
 }
 .profile_page{
-    border: 1px solid black;
+    border: 1px solid hsl(0, 0%, 8%);
     width: 355px;
     margin: auto;
     background-color: hsl(0, 0%, 8%);
@@ -29,8 +29,8 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 180px;
+    margin-bottom: 180px;
 }
 .image{
     margin-top: 35px;
